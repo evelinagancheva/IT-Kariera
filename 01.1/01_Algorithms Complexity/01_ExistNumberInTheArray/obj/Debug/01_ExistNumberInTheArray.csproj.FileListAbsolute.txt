@@ -1,0 +1,7 @@
+E:\4 Модул\Задачи\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\01_Intorduction to algorithms\01_Algorithms Complexity\01_ExistNumberInTheArray\bin\Debug\01_ExistNumberInTheArray.exe.config
+E:\4 Модул\Задачи\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\01_Intorduction to algorithms\01_Algorithms Complexity\01_ExistNumberInTheArray\bin\Debug\01_ExistNumberInTheArray.exe
+E:\4 Модул\Задачи\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\01_Intorduction to algorithms\01_Algorithms Complexity\01_ExistNumberInTheArray\bin\Debug\01_ExistNumberInTheArray.pdb
+E:\4 Модул\Задачи\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\01_Intorduction to algorithms\01_Algorithms Complexity\01_ExistNumberInTheArray\obj\Debug\01_ExistNumberInTheArray.csprojAssemblyReference.cache
+E:\4 Модул\Задачи\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\01_Intorduction to algorithms\01_Algorithms Complexity\01_ExistNumberInTheArray\obj\Debug\01_ExistNumberInTheArray.csproj.CoreCompileInputs.cache
+E:\4 Модул\Задачи\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\01_Intorduction to algorithms\01_Algorithms Complexity\01_ExistNumberInTheArray\obj\Debug\01_ExistNumberInTheArray.exe
+E:\4 Модул\Задачи\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\01_Intorduction to algorithms\01_Algorithms Complexity\01_ExistNumberInTheArray\obj\Debug\01_ExistNumberInTheArray.pdb
