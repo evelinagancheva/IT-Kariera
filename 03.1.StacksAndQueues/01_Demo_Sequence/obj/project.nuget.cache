@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBkc0z1F57mi/QcxnHGzDpFaVuNtj8kDN8nGIOu6UYw2q+ZZcxcY264s5BnFez/pdNusAIw6R16a/SE5uZYoXg==",
+  "success": true,
+  "projectFilePath": "D:\\_ИТ кариера\\Задачи модул 4\\Module 4 - Intro to Algorithms and Data Structures\\03_Algorithms on Linear Data Structures\\03.1.StacksAndQueues\\01_Demo_Sequence\\01_Demo_Sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pgee\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\pgee\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\pgee\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\pgee\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\pgee\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\pgee\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\pgee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

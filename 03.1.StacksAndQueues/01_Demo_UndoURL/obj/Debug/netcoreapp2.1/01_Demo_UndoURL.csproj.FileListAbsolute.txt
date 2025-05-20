@@ -1,0 +1,35 @@
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.deps.json
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.runtimeconfig.json
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.runtimeconfig.dev.json
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.dll
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.pdb
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.AssemblyInfo.cs
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.dll
+C:\Users\asus\source\repos\03_AlgorithmsOnLinearStructures\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.pdb
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.deps.json
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.runtimeconfig.json
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.runtimeconfig.dev.json
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.dll
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.pdb
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.csprojAssemblyReference.cache
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.csproj.CoreCompileInputs.cache
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.AssemblyInfoInputs.cache
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.AssemblyInfo.cs
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.dll
+C:\Users\asus\IT-Careers\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.pdb
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.deps.json
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.runtimeconfig.json
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.runtimeconfig.dev.json
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.dll
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\bin\Debug\netcoreapp2.1\01_Demo_UndoURL.pdb
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.csproj.AssemblyReference.cache
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.AssemblyInfoInputs.cache
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.AssemblyInfo.cs
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.csproj.CoreCompileInputs.cache
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.dll
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.pdb
+D:\_ИТ кариера\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\03_Algorithms on Linear Data Structures\03.1.StacksAndQueues\01_Demo_UndoURL\obj\Debug\netcoreapp2.1\01_Demo_UndoURL.genruntimeconfig.cache
