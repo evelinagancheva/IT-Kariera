@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\_ИТ кариера\\Uvod v ACD\\Задачи модул 4\\Module 4 - Intro to Algorithms and Data Structures\\02_Linear Data Structures\\05_List_AdditionalTask\\List_AdditionalTask\\List_AdditionalTask.csproj": {}
+  },
+  "projects": {
+    "C:\\_ИТ кариера\\Uvod v ACD\\Задачи модул 4\\Module 4 - Intro to Algorithms and Data Structures\\02_Linear Data Structures\\05_List_AdditionalTask\\List_AdditionalTask\\List_AdditionalTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_ИТ кариера\\Uvod v ACD\\Задачи модул 4\\Module 4 - Intro to Algorithms and Data Structures\\02_Linear Data Structures\\05_List_AdditionalTask\\List_AdditionalTask\\List_AdditionalTask.csproj",
+        "projectName": "List_AdditionalTask",
+        "projectPath": "C:\\_ИТ кариера\\Uvod v ACD\\Задачи модул 4\\Module 4 - Intro to Algorithms and Data Structures\\02_Linear Data Structures\\05_List_AdditionalTask\\List_AdditionalTask\\List_AdditionalTask.csproj",
+        "packagesPath": "C:\\Users\\а\\.nuget\\packages\\",
+        "outputPath": "C:\\_ИТ кариера\\Uvod v ACD\\Задачи модул 4\\Module 4 - Intro to Algorithms and Data Structures\\02_Linear Data Structures\\05_List_AdditionalTask\\List_AdditionalTask\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\а\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.209\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

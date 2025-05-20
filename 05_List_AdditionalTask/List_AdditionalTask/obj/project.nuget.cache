@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "skF3P5s42N9iZ7BZNj6NDEndvwcXVG1pBAGFt4VcKnLRMuHw18BZriH0FNu+PGX43pMxOyXulDFgEn1dgR/RbQ==",
+  "success": true,
+  "projectFilePath": "C:\\_ИТ кариера\\Uvod v ACD\\Задачи модул 4\\Module 4 - Intro to Algorithms and Data Structures\\02_Linear Data Structures\\05_List_AdditionalTask\\List_AdditionalTask\\List_AdditionalTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\а\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
