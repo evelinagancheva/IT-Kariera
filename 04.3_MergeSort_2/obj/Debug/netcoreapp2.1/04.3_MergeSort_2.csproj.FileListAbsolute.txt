@@ -1,0 +1,13 @@
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\bin\Debug\netcoreapp2.1\04.3_MergeSort_2.deps.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\bin\Debug\netcoreapp2.1\04.3_MergeSort_2.runtimeconfig.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\bin\Debug\netcoreapp2.1\04.3_MergeSort_2.runtimeconfig.dev.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\bin\Debug\netcoreapp2.1\04.3_MergeSort_2.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\bin\Debug\netcoreapp2.1\04.3_MergeSort_2.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\obj\Debug\netcoreapp2.1\04.3_MergeSort_2.csproj.AssemblyReference.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\obj\Debug\netcoreapp2.1\04.3_MergeSort_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\obj\Debug\netcoreapp2.1\04.3_MergeSort_2.AssemblyInfoInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\obj\Debug\netcoreapp2.1\04.3_MergeSort_2.AssemblyInfo.cs
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\obj\Debug\netcoreapp2.1\04.3_MergeSort_2.csproj.CoreCompileInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\obj\Debug\netcoreapp2.1\04.3_MergeSort_2.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\obj\Debug\netcoreapp2.1\04.3_MergeSort_2.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3_MergeSort_2\obj\Debug\netcoreapp2.1\04.3_MergeSort_2.genruntimeconfig.cache

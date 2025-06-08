@@ -1,0 +1,13 @@
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\bin\Debug\netcoreapp2.1\04.SortingAlgorithms.deps.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\bin\Debug\netcoreapp2.1\04.SortingAlgorithms.runtimeconfig.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\bin\Debug\netcoreapp2.1\04.SortingAlgorithms.runtimeconfig.dev.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\bin\Debug\netcoreapp2.1\04.SortingAlgorithms.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\bin\Debug\netcoreapp2.1\04.SortingAlgorithms.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\obj\Debug\netcoreapp2.1\04.SortingAlgorithms.csproj.AssemblyReference.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\obj\Debug\netcoreapp2.1\04.SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\obj\Debug\netcoreapp2.1\04.SortingAlgorithms.AssemblyInfoInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\obj\Debug\netcoreapp2.1\04.SortingAlgorithms.AssemblyInfo.cs
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\obj\Debug\netcoreapp2.1\04.SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\obj\Debug\netcoreapp2.1\04.SortingAlgorithms.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\obj\Debug\netcoreapp2.1\04.SortingAlgorithms.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.SortingAlgorithms\obj\Debug\netcoreapp2.1\04.SortingAlgorithms.genruntimeconfig.cache

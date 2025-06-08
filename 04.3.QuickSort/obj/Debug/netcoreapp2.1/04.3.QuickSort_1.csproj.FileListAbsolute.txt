@@ -1,0 +1,13 @@
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\bin\Debug\netcoreapp2.1\04.3.QuickSort_1.deps.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\bin\Debug\netcoreapp2.1\04.3.QuickSort_1.runtimeconfig.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\bin\Debug\netcoreapp2.1\04.3.QuickSort_1.runtimeconfig.dev.json
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\bin\Debug\netcoreapp2.1\04.3.QuickSort_1.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\bin\Debug\netcoreapp2.1\04.3.QuickSort_1.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\obj\Debug\netcoreapp2.1\04.3.QuickSort_1.csproj.AssemblyReference.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\obj\Debug\netcoreapp2.1\04.3.QuickSort_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\obj\Debug\netcoreapp2.1\04.3.QuickSort_1.AssemblyInfoInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\obj\Debug\netcoreapp2.1\04.3.QuickSort_1.AssemblyInfo.cs
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\obj\Debug\netcoreapp2.1\04.3.QuickSort_1.csproj.CoreCompileInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\obj\Debug\netcoreapp2.1\04.3.QuickSort_1.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\obj\Debug\netcoreapp2.1\04.3.QuickSort_1.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Задачи модул 4\Module 4 - Intro to Algorithms and Data Structures\04_Sorting algorithms\04.3.QuickSort\obj\Debug\netcoreapp2.1\04.3.QuickSort_1.genruntimeconfig.cache
