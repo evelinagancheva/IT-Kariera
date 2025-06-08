@@ -1,0 +1,48 @@
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.exe
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.deps.json
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.json
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.dev.json
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.dll
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\ref\LinearSearch.dll
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.pdb
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfo.cs
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.dll
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\ref\LinearSearch.dll
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.pdb
+C:\Users\weeew\source\repos\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.genruntimeconfig.cache
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.exe
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.deps.json
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.json
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.dev.json
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.dll
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\ref\LinearSearch.dll
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.pdb
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.AssemblyReference.cache
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfoInputs.cache
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfo.cs
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.dll
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\ref\LinearSearch.dll
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.pdb
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.genruntimeconfig.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.exe
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.deps.json
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.json
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.dev.json
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.AssemblyReference.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfoInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfo.cs
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\refint\LinearSearch.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.genruntimeconfig.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\LinearSearch\obj\Debug\net5.0\ref\LinearSearch.dll

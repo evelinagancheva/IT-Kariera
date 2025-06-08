@@ -1,0 +1,32 @@
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.AssemblyReference.cache
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+D:\Programirane\Uvod v ACD\Алгоритми зъ търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.AssemblyReference.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\refint\BinarySearch.dll
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache
+D:\_ИТ кариера\Задачи 4 ти модул\Алгоритми за търсене\SearchingAlgorithms\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
